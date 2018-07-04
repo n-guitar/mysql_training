@@ -10,22 +10,25 @@
 # 環境構築
 
 ## ファイルダウンロード
+
 ```bash
 git clone https://github.com/n-guitar/mysql_training.git
-``` 　
+```
+ 　
 ## mac用MySqlクライアントインストール
 
 ```bash
 brew install mysql
-``` 　
+```
+ 　
 
 ## mac用MySql接続用クライアントインストール(mysqlSequel Pro)
 
 ```bash
- brew install mysqlSequel Pro
+brew install mysqlSequel Pro
 ```
 
 ## docker-compose.yml実行
 ```bash
- brew install mysqlSequel Pro
+docker-compose up -d 
 ```
