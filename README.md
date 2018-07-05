@@ -61,3 +61,20 @@ mysql_wordpress_1   docker-entrypoint.sh apach ...   Up      0.0.0.0:8000->80/tc
 ![](/README_image/wordpress_image4.png)
 
 ![](/README_image/wordpress_image5.png)
+
+## mysqlSequel Proからmysqlコンテナ接続
+- 以下の通り入力　　
+※お気に入りに保存していくと次回行こ楽
+
+|項目|入力|
+|---|---|
+|名前|※適当でOK|
+|ホスト|127.0.0.1|
+|ユーザ名|wordpress|
+|パスワード|wordpress|
+|パスワード|※入力しない|
+|ポート|13306|
+
+![](/README_image/mysql_image1.png)
+
+![](/README_image/mysql_image2.png)
