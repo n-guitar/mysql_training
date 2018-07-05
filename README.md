@@ -30,12 +30,12 @@ $ brew install mysqlSequel Pro
 
 ## コンテナ起動
 - docker-compose.yml実行
-- git clone後、docker-compose.ymlのDirectoryで実行し、コンテンをbuild&起動する
+- git clone後、docker-compose.ymlのDirectoryで実行し、コンテンをbuild&起動する
 ```bash
 $ docker-compose up -d 
 ```
 
-- 以下の用意表示されればOK
+- 以下の用意表示されればOK
 ※公開ポート変更したい場合はdocker-compose.ymlのportsの左側を変更
 ```bash
 $ docker-compose ps
