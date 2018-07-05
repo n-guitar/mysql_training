@@ -62,7 +62,7 @@ mysql_wordpress_1   docker-entrypoint.sh apach ...   Up      0.0.0.0:8000->80/tc
 
 ![](/README_image/wordpress_image5.png)
 
-## mysqlSequel Proからmysqlコンテナ接続
+## SequelProからmysqlコンテナ接続
 - 以下の通り入力　　
 ※お気に入りに保存していくと次回行こ楽
 
