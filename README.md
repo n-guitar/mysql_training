@@ -49,4 +49,15 @@ mysql_wordpress_1   docker-entrypoint.sh apach ...   Up      0.0.0.0:8000->80/tc
 ## wordpress設定
 - localhost:8000にブラウザでアクセス
 
-![](https://github.com/n-guitar/mysql_training/README_image/wordpress_image1.png)
+- 言語を選択、タイトル、ユーザ名、パスワード、メールアドレスを設定してログイン
+
+![](/README_image/wordpress_image1.png)
+
+※適当なものでOK
+![](/README_image/wordpress_image2.png)
+
+![](/README_image/wordpress_image3.png)
+
+![](/README_image/wordpress_image4.png)
+
+![](/README_image/wordpress_image5.png)
